@@ -1,2 +1,2 @@
-# etikapr
+# etikaprofesi
 etika profesi
